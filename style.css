@@ -1,12 +1,18 @@
-body{
-background:blue ;
-color: orange;
+.green{
+	float: right;
+	background: green;
+	height: 600 px;
+	width: 50%;
 }
-p{
-	font-family: Arial;
-	font-size:20px;
-	clor:white;
+.red{
+	float: left;
+	background: red;
+	height: 600 px;
+	width: 50%;
 }
-p strong{
-	color:red;
+
+.black{
+
+	background: black;
+	width: 100%;
 }
