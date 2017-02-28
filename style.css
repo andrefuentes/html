@@ -1,0 +1,12 @@
+body{
+background:blue ;
+color: orange;
+}
+p{
+	font-family: Arial;
+	font-size:20px;
+	clor:white;
+}
+p strong{
+	color:red;
+}
